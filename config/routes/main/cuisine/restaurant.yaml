@@ -1,0 +1,3 @@
+restaurant_index:
+  path: /
+  controller: App\Controller\Restaurant\ShowAllRestaurantAction
